@@ -1,4 +1,6 @@
 Usage
+
+
 Open the app in your browser.
 Use your mouse or touchpad to draw your signature on the canvas.
 Click "Download" to save your signature as an image.
